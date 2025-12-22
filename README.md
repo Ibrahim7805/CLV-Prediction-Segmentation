@@ -13,11 +13,6 @@ This project transforms raw e-commerce transaction data into actionable business
 
 ---
 
-## 📽️ Project Presentation
-For a high-level business overview of the project, including the problem statement, methodology, and key results, please refer to the presentation:
-👉 **[View Value Intelligence Engine Presentation](./Value_Intelligence_Engine.pdf)**
-
----
 
 ## 📊 Dataset Information
 * **Source:** [UCI Machine Learning Repository - Online Retail Dataset](https://archive.ics.uci.edu/dataset/352/online+retail)
